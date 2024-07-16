@@ -1,0 +1,11 @@
+{
+    "name": "Secret Cave",
+    "description": "A mellow ambient piano and synth theme. Music by toumal.bandcamp.com",
+    "author": "dividebysandwich",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+  }
+  
